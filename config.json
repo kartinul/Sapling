@@ -1,0 +1,61 @@
+{
+  "prefix": "!",
+  "trusted_users_id": [
+    "710697965408223243",
+    "727149210335707177",
+    "717264879530278932"
+  ],
+  "exams": false,
+  "correctSpell": [
+    [
+      [
+        "afnan"
+      ],
+      "afnu"
+    ],
+    [
+      [
+        "breh",
+        "hurb",
+        "brah",
+        "bruj",
+        "brih"
+      ],
+      "bruh"
+    ],
+    [
+      [
+        "boraing",
+        "boaring"
+      ],
+      "boring"
+    ],
+    [
+      [
+        "karthik",
+        "kartihk"
+      ],
+      "kartik"
+    ]
+  ],
+  "bannedwords": [
+    "fuk",
+    "fuc",
+    "neega",
+    "fuck",
+    "stfu",
+    "bitch",
+    "dipshit",
+    "nigga",
+    "nigger",
+    "ass hole",
+    "asshole",
+    "f*ck",
+    "fu*k",
+    "fuc*",
+    "*uck",
+    "fock",
+    "feck",
+    "nigg"
+  ]
+}

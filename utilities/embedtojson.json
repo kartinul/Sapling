@@ -1,0 +1,48 @@
+{"title":"this is title","type":"rich","description":"this is description","url":"https://google.com","timestamp":"2021-04-12T08:00:00.000Z","color":12644095,"fields":[{"name":"this is field 1","value":"this is description of field 1","inline":false},{"name":"this is inline field","value":"this is description of inline field","inline":true},{"name":"this is inline field","value":"this is description inline field","inline":true}],"thumbnail":{"url":"https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128","proxyURL":"https://images-ext-1.discordapp.net/external/OQHRBhDnk6tc29_KekNW0wqkYuNp_x6DlShgRjZ8Ip0/%3Fsize%3D128/https/cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png","height":128,"width":128},"image":{"url":"https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128","proxyURL":"https://images-ext-1.discordapp.net/external/OQHRBhDnk6tc29_KekNW0wqkYuNp_x6DlShgRjZ8Ip0/%3Fsize%3D128/https/cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png","height":128,"width":128},"author":{"name":"this is name","url":"https://google.com","icon_url":"https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128"},"footer":{"text":"this is footer","icon_url":"https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128"}}
+
+{
+    "title": "this is title",
+    "type": "rich",
+    "description": "this is description",
+    "url": "https://google.com",
+    "timestamp": "2021-04-12T08:00:00.000Z",
+    "color": 12644095,
+    "fields": [
+        {
+            "name": "this is field 1",
+            "value": "this is description of field 1",
+            "inline": false
+        },
+        {
+            "name": "this is inline field",
+            "value": "this is description of inline field",
+            "inline": true
+        },
+        {
+            "name": "this is inline field",
+            "value": "this is description inline field",
+            "inline": true
+        }
+    ],
+    "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128",
+        "proxyURL": "https://images-ext-1.discordapp.net/external/OQHRBhDnk6tc29_KekNW0wqkYuNp_x6DlShgRjZ8Ip0/%3Fsize%3D128/https/cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png",
+        "height": 128,
+        "width": 128
+    },
+    "image": {
+        "url": "https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128",
+        "proxyURL": "https://images-ext-1.discordapp.net/external/OQHRBhDnk6tc29_KekNW0wqkYuNp_x6DlShgRjZ8Ip0/%3Fsize%3D128/https/cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png",
+        "height": 128,
+        "width": 128
+    },
+    "author": {
+        "name": "this is name",
+        "url": "https://google.com",
+        "icon_url": "https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128"
+    },
+    "footer": {
+        "text": "this is footer",
+        "icon_url": "https://cdn.discordapp.com/avatars/493716749342998541/bc99fe66183b5a1702946f9a51f0f306.png?size=128"
+    }
+}

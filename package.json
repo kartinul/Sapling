@@ -1,0 +1,21 @@
+{
+  "name": "Sapling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "weky": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

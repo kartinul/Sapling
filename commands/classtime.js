@@ -1,0 +1,12 @@
+module.exports = {
+    commands: ['classtime', 'time',  'ct'],
+    minArgs: 0,
+    maxArgs: null,
+    callback: (message, arguments, text) => {
+        const sendm = require("../exports/send_message");
+        if (message.guild.id !== '810791084287852594') return message.channel.send('WHAT??')
+        sendm('https://media.discordapp.net/attachments/810791084498092072/927494592679514152/unknown.png?width=500&height=212', message.channel, 11)
+        setTimeout(() => message.delete(), 11000)
+
+    }
+}

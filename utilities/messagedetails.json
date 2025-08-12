@@ -1,0 +1,25 @@
+{"channelID":"823538982221512714","deleted":false,"id":"836238977030684692","type":"DEFAULT","system":false,"content":"<@&818742526503550988>","authorID":"794819760365895690","pinned":false,"tts":false,"nonce":null,"embeds":[],"attachments":[],"createdTimestamp":1619445308693,"editedTimestamp":0,"webhookID":null,"applicationID":null,"activity":null,"flags":0,"reference":null,"guildID":"810791084287852594","cleanContent":"@Owner"}
+
+{
+    "channelID": "823538982221512714",
+    "deleted": false,
+    "id": "836238977030684692",
+    "type": "DEFAULT",
+    "system": false,
+    "content": "<@&818742526503550988>",
+    "authorID": "794819760365895690",
+    "pinned": false,
+    "tts": false,
+    "nonce": null,
+    "embeds": [],
+    "attachments": [],
+    "createdTimestamp": 1619445308693,
+    "editedTimestamp": 0,
+    "webhookID": null,
+    "applicationID": null,
+    "activity": null,
+    "flags": 0,
+    "reference": null,
+    "guildID": "810791084287852594",
+    "cleanContent": "@Owner"
+}
